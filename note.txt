@@ -1,0 +1,11 @@
+Entities: 
+- business models inside your FE app
+- contain lightweight logic, validation, or computed properties
+
+VOs 
+- represent small immutable values: money, email, address
+
+DTOs
+- receive from or send to API
+
+Mappers: convert DTO to Entities
